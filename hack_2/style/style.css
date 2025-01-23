@@ -27,8 +27,10 @@ body{
 
 .centro{
     float: right;
-    margin-left: 2%;
+    /*PARA CENTRAR*/
+    margin-left: 2%;  
     margin-right: 2%;
+    /**/
     background-color: #AB2849;
     width: 96%;
     height: 100px;
