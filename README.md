@@ -1,5 +1,5 @@
 # SOCIAL OPLESK
-### 🏴‍☠️ HACK-1:1  $${\color{green}DUBRASKA_SOLORZANO}$$
+### 🏴‍☠️ HACK-1:1  $${\color{green}DUBRASKA-SOLORZANO}$$
 ## NOTA: Todos los hacks fueron realizados en base a una pantalla de 1280x800 px, no se utilizó media Query, ùnicamente, en general, los features de position, flex y float vistos en clase.
 
 <br/>
